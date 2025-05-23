@@ -1,1 +1,1 @@
-# infovis trabajo de vistualización
+# trabajo de visualización
